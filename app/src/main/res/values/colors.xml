@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#F26248</color>
-    <color name="colorPrimaryDark">#F2433A</color>
+    <color name="colorPrimary">#8F7C79</color>
+    <color name="colorPrimaryDark">#171616</color>
     <color name="background">#efd2a7</color>
-    <color name="colorAccent">#F26248</color>
-    <color name="forecastItem">#F4845F</color>
+    <color name="colorAccent">#36C6CC</color>
+    <color name="forecastItem">#E91E63</color>
     <color name="forecastItemText">#FFFFFF</color>
 </resources>
