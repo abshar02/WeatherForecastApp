@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Is it cold?</string>
+    <string name="app_name">WeatherForecast</string>
     <string name="error_common">Something went wrong.</string>
     <string name="no_results">Can\'t find a forecast for your location.</string>
     <string name="forecast_image_description">Weather icon</string>
